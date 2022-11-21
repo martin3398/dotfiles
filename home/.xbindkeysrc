@@ -1,0 +1,4 @@
+"xdotool key 'Super_L+Control_L+Right'"
+       b:8
+"xdotool key 'Super_L+Control_L+Left'"
+       b:9

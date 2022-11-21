@@ -1,0 +1,21 @@
+*background: #002b36
+*mid: #073642
+*foreground: #839496
+*cursorColor: #073642
+
+*border: #657b83
+*highlight: #93a1a1
+*urgent: #cb4b16
+*blue: #268bd2
+
+URxvt.font: xft:Source Code Pro:size=10.5
+URxvt.depth:                      32
+URxvt*scrollBar:                  false
+URxvt*mouseWheelScrollPage:       false
+URxvt*cursorBlink:                true
+URxvt*saveLines:                  5000
+URxvt*internalBorder: 5
+URxvt*geometry: 70x19
+
+Xcursor.size: 10
+
